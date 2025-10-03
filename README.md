@@ -1,8 +1,3 @@
-<!-- markdownlint-disable-next-line -->
-<p align="center">
-  <a href="https://mui.com/toolpad/" rel="noopener" target="_blank"><img width="150" src="https://mui.com/static/branding/product-toolpad-light.svg" alt="Toolpad logo"></a>
-</p>
-
 <h1 align="center">Toolpad</h1>
 
 - [Toolpad Core](https://mui.com/toolpad/core/introduction/) is a framework approach to internal tools. Through high-level components and data management interfaces, It's tightly integrated with [MUI X](http://github.com/mui/mui-x) and MUI's core libraries like [Material UI](http://github.com/mui/material-ui). You can use it as a framework for admin dashboards and CRUD apps!
